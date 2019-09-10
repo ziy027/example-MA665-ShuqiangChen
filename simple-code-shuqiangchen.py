@@ -7,7 +7,7 @@
    "outputs": [],
    "source": [
     "def simple-code-ShuqiangChen(x):\n",
-    "  y = x*x+2 \n",
+    "  y = x*x+1 \n",
     "  return y"
    ]
   }
